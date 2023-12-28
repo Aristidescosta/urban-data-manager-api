@@ -1,0 +1,17 @@
+{
+  "name": "urban-data-manager-api",
+  "version": "1.0.0",
+  "description": "A UrbanDataManagerAPI oferece um conjunto robusto de endpoints para o cadastro eficiente de informações sobre cidades. Permitindo a gestão detalhada de dados urbanos, desde o registro de novas cidades até a atualização e consulta de informações vitais, esta API é a ferramenta ideal para desenvolvedores e sistemas que buscam centralizar e organizar dados relacionados a áreas urbanas. Facilitando a integração e a expansão de funcionalidades, a UrbanDataManagerAPI é a escolha inteligente para aplicações que exigem uma gestão eficaz e escalável de informações municipais.",
+  "main": "index.js",
+  "author": "Aristides Costa",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
